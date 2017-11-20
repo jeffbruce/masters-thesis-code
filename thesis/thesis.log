@@ -1,0 +1,1013 @@
+This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2012.1.8)  15 JUN 2013 22:43
+entering extended mode
+**thesis.tex
+("C:\Users\Jeff\Documents\McMaster University\Thesis\thesis.tex"
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, lat
+vian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerm
+an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, 
+romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
+sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
+senglishmax, welsh, loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\Jeff\Documents\McMaster University\Thesis\jrl_thesis.sty")
+("C:\Users\Jeff\Documents\McMaster University\Thesis\fancyheadings.sty"
+\fancy@headwidth=\skip43
+\f@ncyO@elh=\skip44
+\f@ncyO@erh=\skip45
+\f@ncyO@olh=\skip46
+\f@ncyO@orh=\skip47
+\f@ncyO@elf=\skip48
+\f@ncyO@erf=\skip49
+\f@ncyO@olf=\skip50
+\f@ncyO@orf=\skip51
+)
+("C:\Users\Jeff\Documents\McMaster University\Thesis\setspace.sty"
+Package: setspace 2000/12/01 6.7 Contributed and Supported LaTeX2e package
+
+Package: `setspace' 6.7 <2000/12/01>
+)
+\@input{definitions.aux}
+("C:\Users\Jeff\Documents\McMaster University\Thesis\definitions.tex")
+("C:\Program Files\MiKTeX 2.9\tex\latex\apacite\apacite.sty"
+Package: apacite 2012/02/25 v6.01 APA citation
+\c@BibCnt=\count88
+\bibleftmargin=\skip52
+\bibindent=\skip53
+\bibparsep=\skip54
+\bibitemsep=\skip55
+\biblabelsep=\skip56
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\frankenstein\newclude.sty"
+Package: newclude 1999/11/02 v2 A new system for including files (Frankenstein'
+s backbone)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\frankenstein\moredefs.sty"
+Package: moredefs 2001/08/31 v1.8 more defining commands (Frankenstein's brain)
+
+\sc@toks@a=\toks14
+\sc@toks@b=\toks15
+)
+\nc@toks@a=\toks16
+\c@IncludeDepth=\count89
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\frankenstein\tag.sto")
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/01/28 v0.05d Graphics/color for pdfTeX
+\Gread@gobject=\count90
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\verbatim.sty"
+Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks18
+\verbatim@line=\toks19
+\verbatim@in@stream=\read1
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tipa\tipa.sty"
+Package: tipa 2002/08/08 TIPA version 1.1
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tipa\t3enc.def"
+File: t3enc.def 2001/12/31 T3 encoding
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ot1enc.def"
+File: ot1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding OT1 on input line 43.
+)))
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsmath.sty"
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip57
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks20
+\ex@=\dimen105
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen106
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count91
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count92
+\leftroot@=\count93
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count94
+\DOTSCASE@=\count95
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count96
+\c@MaxMatrixCols=\count97
+\dotsspace@=\muskip10
+\c@parentequation=\count98
+\dspbrk@lvl=\count99
+\tag@help=\toks21
+\row@=\count100
+\column@=\count101
+\maxfields@=\count102
+\andhelp@=\toks22
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks23
+\multlinegap=\skip58
+\multlinetaggap=\skip59
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\placeins\placeins.sty"
+Package: placeins 2005/04/18  v 2.2
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\appendix\appendix.sty"
+Package: appendix 2009/09/02 v1.2b extra appendix facilities
+\c@@pps=\count103
+\c@@ppsavesec=\count104
+\c@@ppsaveapp=\count105
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\lmodern.sty"
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+("C:\Users\Jeff\Documents\McMaster University\Thesis\thesis.aux"
+
+LaTeX Warning: Label `chap5-struct-back-noise' multiply defined.
+
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 31.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 31.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\tipa\t3cmr.fd"
+File: t3cmr.fd 2001/12/31 TIPA font definitions
+)
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 31.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmr.fd"
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+\c@maskedRefs=\count106
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\apacite\english.apc"
+File: english.apc 2012/02/25 v6.01 apacite language file
+LaTeX Info: Redefining \BPBI on input line 129.
+LaTeX Info: Redefining \BHBI on input line 130.
+)
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count107
+\scratchdimen=\dimen114
+\scratchbox=\box28
+\nofMPsegments=\count108
+\nofMParguments=\count109
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count110
+\MPscratchDim=\dimen115
+\MPnumerator=\count111
+\makeMPintoPDFobject=\count112
+\everyMPtoPDFconversion=\toks26
+) [1
+
+
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 32.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omslmr.fd"
+File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 32.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omslmsy.fd"
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <14.4> not available
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 32.
+ [1]
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 32.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 32.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omllmm.fd"
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 32.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omxlmex.fd"
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 32.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 32.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 32.
+ [2]
+("C:\Users\Jeff\Documents\McMaster University\Thesis\dedic.tex") [3
+
+]
+("C:\Users\Jeff\Documents\McMaster University\Thesis\abstr.tex") [4
+
+
+
+]
+("C:\Users\Jeff\Documents\McMaster University\Thesis\acknowledgements.tex"
+[5
+
+
+
+]) [6] ("C:\Users\Jeff\Documents\McMaster University\Thesis\notation.tex")
+[7
+
+
+
+] [8] ("C:\Users\Jeff\Documents\McMaster University\Thesis\thesis.toc"
+[9
+
+
+] [10] [11])
+\tf@toc=\write3
+ [12]
+("C:\Users\Jeff\Documents\McMaster University\Thesis\thesis.lof" [13
+
+] [14]
+[15])
+\tf@lof=\write4
+ [16] ("C:\Users\Jeff\Documents\McMaster University\Thesis\chap1.tex"
+Chapter 1.
+[1
+
+
+]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[2] [3] <figures/chap1-hearing-and-balance.png, id=71, 654.445pt x 457.71pt>
+File: figures/chap1-hearing-and-balance.png Graphic file (type png)
+
+<use figures/chap1-hearing-and-balance.png>
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
+[]\T1/lmr/m/n/12 Figure 1.1: Anatomy of the ear. The outer, mid-dle, and in-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
+\T1/lmr/m/n/12 ner ear and their com-po-nents. (Re-trieved June 1, 2013, from:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
+\T1/lmr/m/n/12 http://www.directhearingaids.co.uk/index.php/33/how-hearing-bala
+nce-work-
+ []
+
+
+<figures/chap1-outer-ear-transfer-function.png, id=72, 382.42876pt x 203.25937p
+t>
+File: figures/chap1-outer-ear-transfer-function.png Graphic file (type png)
+ <use figures/chap1-outer-ear-transfer-function.png> [4 <C:/Users/Jeff/Document
+s/McMaster University/Thesis/figures/chap1-hearing-and-balance.png (PNG copy)>]
+ [5 <C:/Users/Jeff/Documents/McMaster University/Thesis/figures/chap1-outer-ear
+-transfer-function.png (PNG copy)>]
+<figures/chap1-middle-ear-transfer-function.png, id=80, 422.32782pt x 450.9347p
+t>
+File: figures/chap1-middle-ear-transfer-function.png Graphic file (type png)
+ <use figures/chap1-middle-ear-transfer-function.png> [6] [7 <C:/Users/Jeff/Doc
+uments/McMaster University/Thesis/figures/chap1-middle-ear-transfer-function.pn
+g (PNG copy)>]
+<figures/chap1-uncoiled-cochlea.jpg, id=88, 433.62pt x 248.42813pt>
+File: figures/chap1-uncoiled-cochlea.jpg Graphic file (type jpg)
+
+<use figures/chap1-uncoiled-cochlea.jpg>
+<figures/chap1-organ-of-Corti.jpg, id=89, 402.75468pt x 290.58563pt>
+File: figures/chap1-organ-of-Corti.jpg Graphic file (type jpg)
+
+<use figures/chap1-organ-of-Corti.jpg>
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+[]\T1/lmr/m/n/12 Figure 1.5: The or-gan of Corti holds the in-ner and outer hai
+r
+ []
+
+
+Underfull \hbox (badness 5548) in paragraph at lines 70--70
+\T1/lmr/m/n/12 cells and the au-di-tory nerve fibers. (Re-trieved June 1, 2013,
+ from:
+ []
+
+[8] [9 <C:/Users/Jeff/Documents/McMaster University/Thesis/figures/chap1-uncoil
+ed-cochlea.jpg> <C:/Users/Jeff/Documents/McMaster University/Thesis/figures/cha
+p1-organ-of-Corti.jpg>] [10]
+<figures/chap1-basilar-membrane-nonlinearity.jpg, id=100, 245.59009pt x 162.447
+62pt>
+File: figures/chap1-basilar-membrane-nonlinearity.jpg Graphic file (type jpg)
+ <use figures/chap1-basilar-membrane-nonlinearity.jpg>
+<figures/chap1-basilar-membrane-nonCF.png, id=101, 324.46219pt x 203.25937pt>
+File: figures/chap1-basilar-membrane-nonCF.png Graphic file (type png)
+
+<use figures/chap1-basilar-membrane-nonCF.png>
+<figures/chap1-two-tone-suppression.png, id=102, 347.79938pt x 231.86626pt>
+File: figures/chap1-two-tone-suppression.png Graphic file (type png)
+
+<use figures/chap1-two-tone-suppression.png>
+<figures/chap1-two-tone-suppression-2.png, id=103, 228.855pt x 243.91125pt>
+File: figures/chap1-two-tone-suppression-2.png Graphic file (type png)
+
+<use figures/chap1-two-tone-suppression-2.png> [11] [12 <C:/Users/Jeff/Document
+s/McMaster University/Thesis/figures/chap1-basilar-membrane-nonlinearity.jpg> <
+C:/Users/Jeff/Documents/McMaster University/Thesis/figures/chap1-basilar-membra
+ne-nonCF.png (PNG copy)>]
+<figures/chap1-phase-locking.png, id=110, 258.21469pt x 158.09062pt>
+File: figures/chap1-phase-locking.png Graphic file (type png)
+
+<use figures/chap1-phase-locking.png> [13 <C:/Users/Jeff/Documents/McMaster Uni
+versity/Thesis/figures/chap1-two-tone-suppression.png (PNG copy)>] [14 <C:/User
+s/Jeff/Documents/McMaster University/Thesis/figures/chap1-two-tone-suppression-
+2.png (PNG copy)>] [15 <C:/Users/Jeff/Documents/McMaster University/Thesis/figu
+res/chap1-phase-locking.png (PNG copy)>]
+<figures/chap1-audiogram-presbycusis.jpg, id=121, 433.62pt x 461.0826pt>
+File: figures/chap1-audiogram-presbycusis.jpg Graphic file (type jpg)
+
+<use figures/chap1-audiogram-presbycusis.jpg>
+Underfull \hbox (badness 3612) in paragraph at lines 141--141
+[]\T1/lmr/m/n/12 Figure 1.11: An au-dio-gram with pres-by-cu-sis, slop-ing from
+ low to high
+ []
+
+
+Underfull \hbox (badness 2990) in paragraph at lines 141--141
+\T1/lmr/m/n/12 fre-quency. Hear-ing loss is graded from mild to se-vere on the 
+dB HL
+ []
+
+
+Underfull \hbox (badness 4792) in paragraph at lines 141--141
+\T1/lmr/m/n/12 the left and right ears are plot-ted. (Re-trieved June 1, 2013, 
+from:
+ []
+
+<figures/chap1-OHCloss.jpg, id=122, 184.83212pt x 210.41443pt>
+File: figures/chap1-OHCloss.jpg Graphic file (type jpg)
+
+<use figures/chap1-OHCloss.jpg> [16] [17 <C:/Users/Jeff/Documents/McMaster Univ
+ersity/Thesis/figures/chap1-audiogram-presbycusis.jpg>]
+<figures/chap1-basilar-membrane-linear-after-loss.png, id=129, 442.65375pt x 32
+4.46219pt>
+File: figures/chap1-basilar-membrane-linear-after-loss.png Graphic file (type p
+ng)
+ <use figures/chap1-basilar-membrane-linear-after-loss.png> [18 <C:/Users/Jeff/
+Documents/McMaster University/Thesis/figures/chap1-OHCloss.jpg>]
+[19 <C:/Users/Jeff/Documents/McMaster University/Thesis/figures/chap1-basilar-m
+embrane-linear-after-loss.png (PNG copy)>]
+<figures/chap1-phase-response-concatenated.png, id=136, 674.52pt x 306.39468pt>
+File: figures/chap1-phase-response-concatenated.png Graphic file (type png)
+<use figures/chap1-phase-response-concatenated.png> [20 <C:/Users/Jeff/Document
+s/McMaster University/Thesis/figures/chap1-phase-response-concatenated.png>])
+[21] ("C:\Users\Jeff\Documents\McMaster University\Thesis\chap2.tex"
+Chapter 2.
+[22
+
+
+
+] [23] [24] [25] [26] [27] [28]
+<figures/chap2-target-curves.png, id=168, 325.96782pt x 281.55188pt>
+File: figures/chap2-target-curves.png Graphic file (type png)
+
+<use figures/chap2-target-curves.png> [29] [30 <C:/Users/Jeff/Documents/McMaste
+r University/Thesis/figures/chap2-target-curves.png (PNG copy)>]
+<figures/chap2-dynamic-range.png, id=175, 401.5pt x 309.155pt>
+File: figures/chap2-dynamic-range.png Graphic file (type png)
+
+<use figures/chap2-dynamic-range.png>
+Underfull \hbox (badness 1178) in paragraph at lines 53--53
+\T1/lmr/m/n/12 as loud as with nor-mal hear-ing). WDRC ap-plies am-pli-fi-ca-ti
+on in dif-fer-ent
+ []
+
+[31 <C:/Users/Jeff/Documents/McMaster University/Thesis/figures/chap2-dynamic-r
+ange.png>] [32] [33]
+<figures/chap2-NC-block-diagrams.png, id=187, 487.8225pt x 308.65312pt>
+File: figures/chap2-NC-block-diagrams.png Graphic file (type png)
+
+<use figures/chap2-NC-block-diagrams.png>
+Overfull \hbox (54.20131pt too wide) in paragraph at lines 73--73
+ [] 
+ []
+
+[34]) [35] [36 <C:/Users/Jeff/Documents/McMaster University/Thesis/figures/chap
+2-NC-block-diagrams.png>]
+("C:\Users\Jeff\Documents\McMaster University\Thesis\chap3.tex"
+Chapter 3.
+[37
+
+
+
+] [38] [39] [40] [41] [42] [43] [44] [45]) [46] [47]
+("C:\Users\Jeff\Documents\McMaster University\Thesis\chap4.tex"
+Chapter 4.
+[48
+
+
+
+] <figures/chap4-design.png, id=240, 639.89063pt x 183.68625pt>
+File: figures/chap4-design.png Graphic file (type png)
+
+<use figures/chap4-design.png> [49 <C:/Users/Jeff/Documents/McMaster University
+/Thesis/figures/chap4-design.png (PNG copy)>] [50]
+<figures/chap4-audiograms.png, id=248, 670.75594pt x 591.71063pt>
+File: figures/chap4-audiograms.png Graphic file (type png)
+
+<use figures/chap4-audiograms.png> [51] [52 <C:/Users/Jeff/Documents/McMaster U
+niversity/Thesis/figures/chap4-audiograms.png>]
+<figures/chap4-sound-booth.png, id=256, 551.661pt x 413.74574pt>
+File: figures/chap4-sound-booth.png Graphic file (type png)
+
+<use figures/chap4-sound-booth.png> [53] [54 <C:/Users/Jeff/Documents/McMaster 
+University/Thesis/figures/chap4-sound-booth.png>] [55]
+<figures/chap4-hint-group.pdf, id=268, 307.1475pt x 278.03876pt>
+File: figures/chap4-hint-group.pdf Graphic file (type pdf)
+
+<use figures/chap4-hint-group.pdf>
+<figures/chap4-hint-indiv.pdf, id=269, 432.61626pt x 280.04625pt>
+File: figures/chap4-hint-indiv.pdf Graphic file (type pdf)
+
+<use figures/chap4-hint-indiv.pdf>
+LaTeX Font Info:    Try loading font information for T3+lmr on input line 85.
+LaTeX Font Info:    No file T3lmr.fd. on input line 85.
+
+
+LaTeX Font Warning: Font shape `T3/lmr/m/n' undefined
+(Font)              using `T3/cmr/m/n' instead
+(Font)              for symbol `textsci' on input line 85.
+
+[56] [57 <C:/Users/Jeff/Documents/McMaster University/Thesis/figures/chap4-hint
+-group.pdf>] [58 <C:/Users/Jeff/Documents/McMaster University/Thesis/figures/ch
+ap4-hint-indiv.pdf>] [59]
+<figures/chap4-hVd-group.png, id=293, 605.26125pt x 302.12875pt>
+File: figures/chap4-hVd-group.png Graphic file (type png)
+
+<use figures/chap4-hVd-group.png>
+Overfull \hbox (0.71777pt too wide) in paragraph at lines 115--115
+ [] 
+ []
+
+<figures/chap4-hVd-indiv.png, id=294, 605.26125pt x 302.12875pt>
+File: figures/chap4-hVd-indiv.png Graphic file (type png)
+
+<use figures/chap4-hVd-indiv.png>
+Overfull \hbox (0.71777pt too wide) in paragraph at lines 123--123
+ [] 
+ []
+
+[60] [61 <C:/Users/Jeff/Documents/McMaster University/Thesis/figures/chap4-hVd-
+group.png (PNG copy)>] [62 <C:/Users/Jeff/Documents/McMaster University/Thesis/
+figures/chap4-hVd-indiv.png (PNG copy)>]
+<figures/chap4-hVd-ovr.png, id=307, 464.4853pt x 718.18312pt>
+File: figures/chap4-hVd-ovr.png Graphic file (type png)
+
+<use figures/chap4-hVd-ovr.png>
+
+LaTeX Warning: Float too large for page by 32.00256pt on input line 137.
+
+<figures/chap4-hVd-cond-difference.png, id=308, 524.71031pt x 828.09375pt>
+File: figures/chap4-hVd-cond-difference.png Graphic file (type png)
+
+<use figures/chap4-hVd-cond-difference.png>
+
+LaTeX Warning: Float too large for page by 46.50256pt on input line 145.
+
+[63] [64 <C:/Users/Jeff/Documents/McMaster University/Thesis/figures/chap4-hVd-
+ovr.png (PNG copy)>] [65 <C:/Users/Jeff/Documents/McMaster University/Thesis/fi
+gures/chap4-hVd-cond-difference.png>] [66]
+<figures/chap4-vcv-group.png, id=322, 586.19pt x 302.12875pt>
+File: figures/chap4-vcv-group.png Graphic file (type png)
+
+<use figures/chap4-vcv-group.png>
+<figures/chap4-vcv-indiv.png, id=323, 586.19pt x 302.12875pt>
+File: figures/chap4-vcv-indiv.png Graphic file (type png)
+
+<use figures/chap4-vcv-indiv.png> [67 <C:/Users/Jeff/Documents/McMaster Univers
+ity/Thesis/figures/chap4-vcv-group.png (PNG copy)>] [68 <C:/Users/Jeff/Document
+s/McMaster University/Thesis/figures/chap4-vcv-indiv.png (PNG copy)>]
+<figures/chap4-VCV-ovr.png, id=333, 365.86688pt x 645.91313pt>
+File: figures/chap4-VCV-ovr.png Graphic file (type png)
+
+<use figures/chap4-VCV-ovr.png>
+
+LaTeX Warning: Float too large for page by 0.00256pt on input line 199.
+
+[69] [70 <C:/Users/Jeff/Documents/McMaster University/Thesis/figures/chap4-VCV-
+ovr.png (PNG copy)>]
+<figures/chap4-vcv-cond-difference.png, id=340, 627.84563pt x 987.69pt>
+File: figures/chap4-vcv-cond-difference.png Graphic file (type png)
+
+<use figures/chap4-vcv-cond-difference.png>
+
+LaTeX Warning: Float too large for page by 32.00256pt on input line 209.
+
+[71 <C:/Users/Jeff/Documents/McMaster University/Thesis/figures/chap4-vcv-cond-
+difference.png>] [72
+
+
+] [73]
+<figures/chap4-mhn-group.pdf, id=351, 354.32375pt x 308.15125pt>
+File: figures/chap4-mhn-group.pdf Graphic file (type pdf)
+
+<use figures/chap4-mhn-group.pdf>
+<figures/chap4-mhn-indiv.pdf, id=352, 592.2125pt x 266.9975pt>
+File: figures/chap4-mhn-indiv.pdf Graphic file (type pdf)
+
+<use figures/chap4-mhn-indiv.pdf>
+Overfull \hbox (47.28941pt too wide) in paragraph at lines 251--251
+ [] 
+ []
+
+[74 <C:/Users/Jeff/Documents/McMaster University/Thesis/figures/chap4-mhn-group
+.pdf>] [75 <C:/Users/Jeff/Documents/McMaster University/Thesis/figures/chap4-mh
+n-indiv.pdf>] [76]
+<figures/chap4-timbre-group.pdf, id=373, 364.36125pt x 293.095pt>
+File: figures/chap4-timbre-group.pdf Graphic file (type pdf)
+
+<use figures/chap4-timbre-group.pdf>
+<figures/chap4-timbre-indiv.pdf, id=374, 627.34375pt x 293.095pt>
+File: figures/chap4-timbre-indiv.pdf Graphic file (type pdf)
+
+<use figures/chap4-timbre-indiv.pdf>
+Overfull \hbox (30.4348pt too wide) in paragraph at lines 297--297
+ [] 
+ []
+
+[77] [78 <C:/Users/Jeff/Documents/McMaster University/Thesis/figures/chap4-timb
+re-group.pdf>] [79 <C:/Users/Jeff/Documents/McMaster University/Thesis/figures/
+chap4-timbre-indiv.pdf>] [80]
+<figures/chap4-gd-group.pdf, id=398, 315.1775pt x 395.4775pt>
+File: figures/chap4-gd-group.pdf Graphic file (type pdf)
+
+<use figures/chap4-gd-group.pdf>
+<figures/chap4-gd-indiv.pdf, id=399, 361.35pt x 395.4775pt>
+File: figures/chap4-gd-indiv.pdf Graphic file (type pdf)
+
+<use figures/chap4-gd-indiv.pdf> [81] [82 <C:/Users/Jeff/Documents/McMaster Uni
+versity/Thesis/figures/chap4-gd-group.pdf>] [83 <C:/Users/Jeff/Documents/McMast
+er University/Thesis/figures/chap4-gd-indiv.pdf>] [84] [85]
+<figures/chap4-loc-cond.png, id=423, 581.17125pt x 302.12875pt>
+File: figures/chap4-loc-cond.png Graphic file (type png)
+
+<use figures/chap4-loc-cond.png>
+<figures/chap4-loc-spk.png, id=424, 581.17125pt x 302.12875pt>
+File: figures/chap4-loc-spk.png Graphic file (type png)
+
+<use figures/chap4-loc-spk.png>
+<figures/chap4-loc-cond+spk.png, id=425, 679.53876pt x 283.0575pt>
+File: figures/chap4-loc-cond+spk.png Graphic file (type png)
+
+<use figures/chap4-loc-cond+spk.png>
+Overfull \hbox (86.88908pt too wide) in paragraph at lines 383--383
+ [] 
+ []
+
+<figures/chap4-loc-prop.png, id=426, 679.53876pt x 470.75874pt>
+File: figures/chap4-loc-prop.png Graphic file (type png)
+
+<use figures/chap4-loc-prop.png> [86] [87 <C:/Users/Jeff/Documents/McMaster Uni
+versity/Thesis/figures/chap4-loc-cond.png (PNG copy)>] [88 <C:/Users/Jeff/Docum
+ents/McMaster University/Thesis/figures/chap4-loc-spk.png (PNG copy)>] [89 <C:/
+Users/Jeff/Documents/McMaster University/Thesis/figures/chap4-loc-cond+spk.png 
+(PNG copy)>] [90 <C:/Users/Jeff/Documents/McMaster University/Thesis/figures/ch
+ap4-loc-prop.png (PNG copy)>] [91
+
+]
+<figures/chap4-sound-qual-group.pdf, id=450, 388.45125pt x 271.0125pt>
+File: figures/chap4-sound-qual-group.pdf Graphic file (type pdf)
+
+<use figures/chap4-sound-qual-group.pdf> [92 <C:/Users/Jeff/Documents/McMaster 
+University/Thesis/figures/chap4-sound-qual-group.pdf>] [93] [94] [95] [96]
+[97]) [98] [99] ("C:\Users\Jeff\Documents\McMaster University\Thesis\chap5.tex"
+Chapter 5.
+[100
+
+
+
+] <figures/chap5-design.png, id=485, 784.43062pt x 183.68625pt>
+File: figures/chap5-design.png Graphic file (type png)
+
+<use figures/chap5-design.png> [101 <C:/Users/Jeff/Documents/McMaster Universit
+y/Thesis/figures/chap5-design.png (PNG copy)>] [102]
+<figures/chap5-audiograms.png, id=492, 600.74437pt x 718.18312pt>
+File: figures/chap5-audiograms.png Graphic file (type png)
+
+<use figures/chap5-audiograms.png>
+
+LaTeX Warning: Float too large for page by 0.35236pt on input line 36.
+
+[103] [104 <C:/Users/Jeff/Documents/McMaster University/Thesis/figures/chap5-au
+diograms.png>]
+<figures/chap5-reig-walterL.png, id=501, 918.43124pt x 612.78937pt>
+File: figures/chap5-reig-walterL.png Graphic file (type png)
+
+<use figures/chap5-reig-walterL.png>
+<figures/chap5-reig-dunstanL.png, id=502, 913.91437pt x 612.78937pt>
+File: figures/chap5-reig-dunstanL.png Graphic file (type png)
+
+<use figures/chap5-reig-dunstanL.png>
+<figures/chap5-reig-anneL.png, id=503, 918.43124pt x 608.2725pt>
+File: figures/chap5-reig-anneL.png Graphic file (type png)
+
+<use figures/chap5-reig-anneL.png>
+<figures/chap5-ICRA-male-3-band-60-dB.png, id=504, 450.18187pt x 377.15906pt>
+File: figures/chap5-ICRA-male-3-band-60-dB.png Graphic file (type png)
+
+<use figures/chap5-ICRA-male-3-band-60-dB.png> [105 <C:/Users/Jeff/Documents/Mc
+Master University/Thesis/figures/chap5-reig-walterL.png>] [106 <C:/Users/Jeff/D
+ocuments/McMaster University/Thesis/figures/chap5-reig-dunstanL.png>] [107 <C:/
+Users/Jeff/Documents/McMaster University/Thesis/figures/chap5-reig-anneL.png>]
+[108 <C:/Users/Jeff/Documents/McMaster University/Thesis/figures/chap5-ICRA-mal
+e-3-band-60-dB.png (PNG copy)>] [109] [110] [111]
+<figures/chap5-hint-group.png, id=530, 622.325pt x 452.69125pt>
+File: figures/chap5-hint-group.png Graphic file (type png)
+
+<use figures/chap5-hint-group.png>
+<figures/chap5-hint-indiv.png, id=531, 622.325pt x 452.69125pt>
+File: figures/chap5-hint-indiv.png Graphic file (type png)
+
+<use figures/chap5-hint-indiv.png>
+<figures/chap5-wd-group.png, id=532, 723.70375pt x 395.4775pt>
+File: figures/chap5-wd-group.png Graphic file (type png)
+
+<use figures/chap5-wd-group.png>
+<figures/chap5-wd-indiv.png, id=533, 856.19875pt x 395.4775pt>
+File: figures/chap5-wd-indiv.png Graphic file (type png)
+
+<use figures/chap5-wd-indiv.png>
+Overfull \hbox (35.77528pt too wide) in paragraph at lines 158--158
+ [] 
+ []
+
+[112] [113 <C:/Users/Jeff/Documents/McMaster University/Thesis/figures/chap5-hi
+nt-group.png (PNG copy)>] [114 <C:/Users/Jeff/Documents/McMaster University/The
+sis/figures/chap5-hint-indiv.png (PNG copy)>] [115 <C:/Users/Jeff/Documents/McM
+aster University/Thesis/figures/chap5-wd-group.png (PNG copy)>]
+<figures/chap5-hVd-group.png, id=549, 742.775pt x 321.2pt>
+File: figures/chap5-hVd-group.png Graphic file (type png)
+
+<use figures/chap5-hVd-group.png>
+Overfull \hbox (67.76549pt too wide) in paragraph at lines 183--183
+ [] 
+ []
+
+<figures/chap5-hVd-indiv.png, id=550, 742.775pt x 321.2pt>
+File: figures/chap5-hVd-indiv.png Graphic file (type png)
+
+<use figures/chap5-hVd-indiv.png>
+Overfull \hbox (67.76549pt too wide) in paragraph at lines 191--191
+ [] 
+ []
+
+[116 <C:/Users/Jeff/Documents/McMaster University/Thesis/figures/chap5-wd-indiv
+.png (PNG copy)>] [117 <C:/Users/Jeff/Documents/McMaster University/Thesis/figu
+res/chap5-hVd-group.png (PNG copy)>] [118 <C:/Users/Jeff/Documents/McMaster Uni
+versity/Thesis/figures/chap5-hVd-indiv.png (PNG copy)>]
+<figures/chap5-hVd-ovr.png, id=564, 489.32813pt x 718.18312pt>
+File: figures/chap5-hVd-ovr.png Graphic file (type png)
+
+<use figures/chap5-hVd-ovr.png>
+
+LaTeX Warning: Float too large for page by 32.00256pt on input line 205.
+
+[119] [120 <C:/Users/Jeff/Documents/McMaster University/Thesis/figures/chap5-hV
+d-ovr.png (PNG copy)>]
+<figures/chap5-hVd-cond-difference.png, id=571, 529.98pt x 731.73375pt>
+File: figures/chap5-hVd-cond-difference.png Graphic file (type png)
+
+<use figures/chap5-hVd-cond-difference.png>
+
+LaTeX Warning: Float too large for page by 46.50256pt on input line 215.
+
+<figures/chap5-vcv-group.png, id=572, 702.625pt x 338.26375pt>
+File: figures/chap5-vcv-group.png Graphic file (type png)
+
+<use figures/chap5-vcv-group.png>
+Overfull \hbox (16.7339pt too wide) in paragraph at lines 236--236
+ [] 
+ []
+
+<figures/chap5-vcv-indiv.png, id=573, 615.29875pt x 310.15875pt>
+File: figures/chap5-vcv-indiv.png Graphic file (type png)
+
+<use figures/chap5-vcv-indiv.png>
+Overfull \hbox (0.47607pt too wide) in paragraph at lines 250--251
+[]\T1/lmr/m/n/12 There were con-sis-tent dif-fer-ences be-tween the hear-ing ai
+ds on in-di-vid-ual phonemes.
+ []
+
+<figures/chap5-VCV-ovr.png, id=574, 421.575pt x 718.18312pt>
+File: figures/chap5-VCV-ovr.png Graphic file (type png)
+
+<use figures/chap5-VCV-ovr.png>
+
+LaTeX Warning: Float too large for page by 0.00256pt on input line 258.
+
+[121
+
+] [122 <C:/Users/Jeff/Documents/McMaster University/Thesis/figures/chap5-hVd-co
+nd-difference.png>] [123 <C:/Users/Jeff/Documents/McMaster University/Thesis/fi
+gures/chap5-vcv-group.png (PNG copy)>] [124 <C:/Users/Jeff/Documents/McMaster U
+niversity/Thesis/figures/chap5-vcv-indiv.png (PNG copy)>] [125 <C:/Users/Jeff/D
+ocuments/McMaster University/Thesis/figures/chap5-VCV-ovr.png (PNG copy)>]
+<figures/chap5-VCV-cond-difference.png, id=594, 537.50812pt x 822.07124pt>
+File: figures/chap5-VCV-cond-difference.png Graphic file (type png)
+
+<use figures/chap5-VCV-cond-difference.png>
+
+LaTeX Warning: Float too large for page by 14.50256pt on input line 268.
+
+<figures/chap5-mhn-group.png, id=595, 739.76375pt x 340.27126pt>
+File: figures/chap5-mhn-group.png Graphic file (type png)
+
+<use figures/chap5-mhn-group.png>
+Overfull \hbox (37.73892pt too wide) in paragraph at lines 290--290
+ [] 
+ []
+
+<figures/chap5-mhn-indiv.png, id=596, 739.76375pt x 340.27126pt>
+File: figures/chap5-mhn-indiv.png Graphic file (type png)
+
+<use figures/chap5-mhn-indiv.png>
+Overfull \hbox (37.73892pt too wide) in paragraph at lines 298--298
+ [] 
+ []
+
+<figures/chap5-timbre-group.png, id=597, 741.77126pt x 386.44376pt>
+File: figures/chap5-timbre-group.png Graphic file (type png)
+
+<use figures/chap5-timbre-group.png>
+<figures/chap5-timbre-indiv.png, id=598, 741.77126pt x 386.44376pt>
+File: figures/chap5-timbre-indiv.png Graphic file (type png)
+
+<use figures/chap5-timbre-indiv.png> [126
+
+] [127 <C:/Users/Jeff/Documents/McMaster University/Thesis/figures/chap5-VCV-co
+nd-difference.png>] [128 <C:/Users/Jeff/Documents/McMaster University/Thesis/fi
+gures/chap5-mhn-group.png (PNG copy)>] [129 <C:/Users/Jeff/Documents/McMaster U
+niversity/Thesis/figures/chap5-mhn-indiv.png (PNG copy)> <C:/Users/Jeff/Documen
+ts/McMaster University/Thesis/figures/chap5-timbre-group.png (PNG copy)>]
+<figures/chap5-gap-group.png, id=616, 573.14125pt x 377.41pt>
+File: figures/chap5-gap-group.png Graphic file (type png)
+
+<use figures/chap5-gap-group.png>
+<figures/chap5-gap-indiv.png, id=617, 573.14125pt x 377.41pt>
+File: figures/chap5-gap-indiv.png Graphic file (type png)
+
+<use figures/chap5-gap-indiv.png> [130 <C:/Users/Jeff/Documents/McMaster Univer
+sity/Thesis/figures/chap5-timbre-indiv.png (PNG copy)>] [131 <C:/Users/Jeff/Doc
+uments/McMaster University/Thesis/figures/chap5-gap-group.png (PNG copy)>]
+[132 <C:/Users/Jeff/Documents/McMaster University/Thesis/figures/chap5-gap-indi
+v.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 374--408
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 374--408
+[]
+ []
+
+
+Overfull \hbox (7.17981pt too wide) in paragraph at lines 374--408
+[] 
+ []
+
+<figures/chap5-loc-cond.png, id=630, 741.77126pt x 386.44376pt>
+File: figures/chap5-loc-cond.png Graphic file (type png)
+
+<use figures/chap5-loc-cond.png>
+<figures/chap5-loc-spk.png, id=631, 741.77126pt x 386.44376pt>
+File: figures/chap5-loc-spk.png Graphic file (type png)
+
+<use figures/chap5-loc-spk.png>
+<figures/chap5-loc-cond+spk.png, id=632, 741.77126pt x 386.44376pt>
+File: figures/chap5-loc-cond+spk.png Graphic file (type png)
+
+<use figures/chap5-loc-cond+spk.png>
+<figures/chap5-loc-prop.png, id=633, 741.77126pt x 386.44376pt>
+File: figures/chap5-loc-prop.png Graphic file (type png)
+
+<use figures/chap5-loc-prop.png> [133] [134 <C:/Users/Jeff/Documents/McMaster U
+niversity/Thesis/figures/chap5-loc-cond.png (PNG copy)>] [135 <C:/Users/Jeff/Do
+cuments/McMaster University/Thesis/figures/chap5-loc-spk.png (PNG copy)>]
+[136 <C:/Users/Jeff/Documents/McMaster University/Thesis/figures/chap5-loc-cond
++spk.png (PNG copy)> <C:/Users/Jeff/Documents/McMaster University/Thesis/figure
+s/chap5-loc-prop.png (PNG copy)>]
+Overfull \hbox (29.06412pt too wide) in paragraph at lines 450--451
+[]\T1/lmr/m/n/12 The Aver-sive-ness of Sounds sub-scale con-tains items re-late
+d to overly loud/uncomfortable
+ []
+
+<figures/chap5-aphab-group.png, id=651, 453.94594pt x 316.93407pt>
+File: figures/chap5-aphab-group.png Graphic file (type png)
+
+<use figures/chap5-aphab-group.png> [137] [138 <C:/Users/Jeff/Documents/McMaste
+r University/Thesis/figures/chap5-aphab-group.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 466--489
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 466--489
+[]
+ []
+
+<figures/chap5-qual-group.png, id=658, 445.665pt x 302.63063pt>
+File: figures/chap5-qual-group.png Graphic file (type png)
+
+<use figures/chap5-qual-group.png> [139
+
+] [140 <C:/Users/Jeff/Documents/McMaster University/Thesis/figures/chap5-qual-g
+roup.png (PNG copy)>]
+<figures/chap5-structured-targ-speech.png, id=666, 714.67pt x 381.425pt>
+File: figures/chap5-structured-targ-speech.png Graphic file (type png)
+
+<use figures/chap5-structured-targ-speech.png> [141] [142 <C:/Users/Jeff/Docume
+nts/McMaster University/Thesis/figures/chap5-structured-targ-speech.png (PNG co
+py)>] <figures/chap5-structured-back-noise.png, id=674, 714.67pt x 381.425pt>
+File: figures/chap5-structured-back-noise.png Graphic file (type png)
+
+<use figures/chap5-structured-back-noise.png> [143 <C:/Users/Jeff/Documents/McM
+aster University/Thesis/figures/chap5-structured-back-noise.png (PNG copy)>]
+[144] [145] [146] [147] [148] [149] [150]) [151] [152]
+("C:\Users\Jeff\Documents\McMaster University\Thesis\chap6.tex"
+Chapter 6.
+[153
+
+
+
+] [154] [155]) [156]
+("C:\Users\Jeff\Documents\McMaster University\Thesis\appendix.tex"
+Appendix A.
+[157
+
+
+
+]) [158] ("C:\Users\Jeff\Documents\McMaster University\Thesis\thesis.bbl"
+[159
+
+
+] [160] [161] [162] [163] [164] [165] [166] [167]
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 2439
+.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmtt.fd"
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+) [168] [169] [170])
+[171] ("C:\Users\Jeff\Documents\McMaster University\Thesis\thesis.aux")
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4737 strings out of 494053
+ 70244 string characters out of 3148607
+ 146064 words of memory out of 3000000
+ 7841 multiletter control sequences out of 15000+200000
+ 55235 words of font info for 45 fonts, out of 3000000 for 9000
+ 715 hyphenation exceptions out of 8191
+ 34i,11n,43p,2196b,418s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/M
+iKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program Files/MiKTeX 2.9/fonts/e
+nc/dvips/lm/lm-mathex.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm
+.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit.enc}<C:/Program 
+Files/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX 2.9/
+fonts/type1/public/lm/lmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/lm/lmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi12.pfb>
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi8.pfb><C:/Program Files/
+MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/lm/lmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr
+i12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmro12.pfb><C:/Progr
+am Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files/MiKTeX 2
+.9/fonts/type1/public/lm/lmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/lm/lmtt12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/tipa/tipa12.p
+fb>
+Output written on thesis.pdf (188 pages, 15154129 bytes).
+PDF statistics:
+ 822 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 366 words of extra memory for PDF output out of 10000 (max. 10000000)
+

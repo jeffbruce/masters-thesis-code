@@ -1,0 +1,38 @@
+\appendix
+\input{appendix}
+
+%Insert computational algorithms for the mistuned harmonic, timbre perception, gap detection.
+
+\chapter{Sound Quality Questionnaire}
+\singlespacing
+\begin{enumerate}
+\item How clear does music sound with the hearing aids you are \textit{currently} wearing? \\
+1 (not at all clear) ... 5 (very clear)
+\item How pleasant does music sound with the hearing aids you are \textit{currently} wearing? \\
+1 (very unpleasant) ... 5 (very pleasant)
+\item How natural does music sound with the hearing aids you are \textit{currently} wearing? \\
+1 (very unnatural) ... 5 (very natural)
+\item How full does music sound with the hearing aids you are \textit{currently} wearing? \\
+1 (very thin) ... 5 (very full)
+\end{enumerate}
+
+\noindent For the following conditions, rate how pleasant the listening experience is while wearing the hearing aids you are \textit{currently} wearing: \\
+1 = very unpleasant \\
+2 = unpleasant \\
+3 = average \\
+4 = pleasant \\
+5 = very pleasant
+\begin{enumerate}
+\item Listening to a small live performance (solo/small group).
+\item Listening to a large live performance (concert/orchestra).
+\item Listening to TV programs.
+\item Listening on the telephone.
+\item Listening to another talker in quiet.
+\item Listening to a car radio.
+\item Listening to another talker amongst competing talkers.
+\item Listening to speech in an auditorium/gymnasium.
+\item Listening to speech/music at the cinema.
+\item Listening to your favourite recordings of your favourite music.
+\end{enumerate}
+\doublespacing
+

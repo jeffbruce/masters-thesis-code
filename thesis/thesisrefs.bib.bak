@@ -1,0 +1,1035 @@
+% This is the thesis reference file I used for my Master's thesis.
+% I list references in alphabetical order.
+
+% REFERENCES TO POTENTIALLY INCLUDE
+%misc references omitted for DSL 3.0 and DSL 4.1
+%Seewald1991, Zelisko, Ramji and Jamieson, 1991 (DSL 3.0)
+%Seewald1997, R. C., Cornelisse, L. E., Ramji, K. V., Sinclair, S. T., Moodie, K. S., & Jamieson, D. G. (1997). DSL v4. 1 for Windows: A software implementation of the Desired Sensation Level (DSL [i/o]) Method for fitting linear gain and wide-dynamic-range compression hearing instruments. London, Ontario, Canada: Hearing Healthcare Research Unit, University of Western Ontario. (DSL 4.1)
+%diff hearing aid manufacturer fittings (Smeds and Leijon, 2001; Keidser, Brew and Peck, 2003; Killion, 2004)
+
+@Manual{R2013,
+title = {R: A Language and Environment for Statistical Computing},
+author = {{R Core Team}},
+organization = {R Foundation for Statistical Computing},
+address = {Vienna, Austria},
+year = {2013},
+url = {http://www.R-project.org}
+}
+
+@article{Abel1972,
+author = {Abel, S. M.},
+title = {Duration discrimination of noise and tone bursts},
+journal = {The Journal of the Acoustical Society of America},
+volume = {51},
+pages = {1219},
+year = {1972}
+}
+
+@article{Aibara2001,
+author = {Aibara, R., and Welsh, J.T., and Puria, S., and Goode, R.L.},
+title = {Human middle-ear sound transfer function and cochlear input impedance},
+journal = {Hearing research},
+volume = {152(1)},
+pages = {100-109},
+year = {2001}
+}
+
+@article{Anderson2010,
+author = {Anderson, S., and Kraus, N.},
+title = {Objective neural indices of speech-in-noise perception},
+journal = {Trends in amplification},
+volume = {14(2)},
+pages = {73-83},
+year = {2010}
+}
+
+@article{Anshel2004,
+author = {Anshel, A., and Kipper, D.A.},
+title = {The influence of group singing on trust and cooperation},
+journal = {Journal of Music Therapy},
+volume = {25(3)},
+pages = {145-155},
+year = {1988}
+}
+
+@article{Arthur1971,
+author = {Arthur, R.M., and Pfeiffer, R.R., and Suga, N.},
+title = {Properties of two-tone inhibition in primary auditory neurones},
+journal = {The Journal of physiology},
+volume = {212(3)},
+pages = {593-609},
+year = {1971}
+}
+
+@article{Baer2002,
+author = {Baer, T., and Moore, B.C., and Kluk, K.},
+title = {Effects of low pass filtering on the intelligibility of speech in noise for people with and without dead regions at high frequencies},
+journal = {The Journal of the Acoustical Society of America},
+volume = {112},
+pages = {1133},
+year = {2002}
+}
+
+@article{Bench1979,
+author = {Bench, J., Kowal, A., and Bamford, J.},
+title = {The BKB (Bamford-Kowal-Bench) sentence lists for partially-hearing children},
+journal = {British Journal of Audiology},
+volume = {13(3)},
+pages = {108-112},
+year = {1979}
+}
+
+@article{Bentler2006,
+author = {Bentler, R., and Chiou, L.K.},
+title = {Digital noise reduction: An overview},
+journal = {Trends in Amplification},
+volume = {10(2)},
+pages = {67-82},
+year = {2006}
+}
+
+@article{Boike2000,
+author = {Boike, K. T., and Souza, P. E. },
+title = {Effect of compression ratio on speech recognition and speech-quality ratings with wide dynamic range compression amplification},
+journal = {Journal of Speech, Language and Hearing Research},
+volume = {43(2)},
+pages = {456},
+year = {2000}
+}
+
+@article{Bondy2004,
+author = {Bondy, J., and Becker, S., and Bruce, I., and Trainor, L., and Haykin, S.},
+title = {A novel signal-processing strategy for hearing-aid design: neurocompensation},
+journal = {Signal Processing},
+volume = {84(7)},
+pages = {1239-1253},
+year = {2004}
+}
+
+@book{Bregman1994,
+author = {Bregman, A. S.},
+title = {Auditory scene analysis: The perceptual organization of sound},
+publisher = {The MIT Press},
+year = {1994}
+}
+
+@article{Brooks1973,
+author = {Brooks, D.},
+title = {Gain requirements of hearing aid users},
+journal = {Scandinavian Audiology},
+volume = {2(4)},
+pages = {199-205},
+year = {1973}
+}
+
+@article{Brooks1996,
+author = {Brooks, D.},
+title = {The time course of adaptation to hearing aid use},
+journal = {British journal of audiology},
+volume = {30(1)},
+pages = {55-62},
+year = {1996}
+}
+
+@article{Bronkhorst1988,
+author = {Bronkhorst, A. W., and Plomp, R.},
+title = {The effect of head-induced interaural time and level differences on speech intelligibility in noise},
+journal = {The Journal of the Acoustical Society of America},
+volume = {83},
+pages = {1508},
+year = {1988}
+}
+
+@article{Bruce2003,
+author = {Bruce, I. C., and Sachs, M. B., and Young, E. D.},
+title = {An auditory-periphery model of the effects of acoustic trauma on auditory nerve responses},
+journal = {The Journal of the Acoustical Society of America},
+volume = {113},
+pages = {369},
+year = {2003}
+}
+
+@Manual{BSA2004,
+title={Recommended procedure for pure tone air and bone conduction threshold audiometry with and without masking and determination of uncomfortable loudness levels},
+author={{British Society of Audiology}},
+year={2004}
+}
+
+@article{Byrne1986,
+author = {Byrne, D., and Dillon, H.},
+title = {The National Acoustic Laboratories'(NAL) new procedure for selecting the gain and frequency response of a hearing aid},
+journal = {Ear and hearing},
+volume = {7(4)},
+pages = {257-265},
+year = {1986}
+}
+
+@article{Byrne1990,
+author = {Byrne, D., and Parkinson, A., and Newall, P.},
+title = {Hearing aid gain and frequency response requirements for the severely/profoundly hearing impaired},
+journal = {Ear and Hearing},
+volume = {11(1)},
+pages = {40-49},
+year = {1990}
+}
+
+@article{Carney1994,
+author = {Carney, L.H.},
+title = {Spatiotemporal encoding of sound level: Models for normal encoding and recruitment of loudness},
+journal = {Hearing Research},
+volume = {76(1)},
+pages = {31-44},
+year = {1994}
+}
+
+@article{Chasin2004,
+author = {Chasin, M., and Russo, F. A.},
+title = {Hearing aids and music},
+journal = {Trends in Amplification},
+volume = {8(2)},
+pages = {35-47},
+year = {2004}
+}
+
+@article{Church1976,
+author = {Church, R. M., and Getty, D. J., and Lerner, N. D.},
+title = {Duration discrimination by rats},
+journal = {Journal of experimental psychology. Animal behavior processes},
+volume = {2(4)},
+pages = {303},
+year = {1976}
+}
+
+@article{Clarkson1988,
+author = {Clarkson, M. G., and Clifton, R. K., and Perris, E. E.},
+title = {Infant timbre perception: Discrimination of spectral envelopes},
+journal = {Perception and psychophysics},
+volume = {43(1)},
+pages = {15-20},
+year = {1988}
+}
+
+@inproceedings{Cooke2008,
+author = {Cooke, M., and Scharenborg, O.},
+title = {The interspeech 2008 consonant challenge},
+booktitle = {Proceedings of the Interspeech},
+year = {2008},
+pages = {1765-1768},
+month = {September}
+}
+
+@article{Cornelisse1995,
+author = {Cornelisse, L. E., and Seewald, R. C., and Jamieson, D. G.},
+title = {The input/output formula: A theoretical approach to the fitting of personal amplification devices},
+journal = {The Journal of the Acoustical Society of America},
+volume = {97},
+pages = {1854},
+year = {1995}
+}
+
+@article{Cox1990,
+author = {Cox, R., and Gilmore, C.},
+title = {Development of the profile of hearing aid performance (PHAP)},
+journal = {Journal of Speech, Language and Hearing Research},
+volume = {33(2)},
+pages = {343},
+year = {1990}
+}
+
+@article{Cox1995,
+author = {Cox, R., and Alexander, G. C.},
+title = {The abbreviated profile of hearing aid benefit},
+journal = {Ear and hearing},
+volume = {16(2)},
+pages = {176-186},
+year = {1995}
+}
+
+@article{Cox2012,
+author = {Cox, R., and Johnson, J.A., and Alexander, G.C.},
+title = {Implications of high-frequency cochlear dead regions for fitting hearing aids to adults with mild to moderately severe hearing loss},
+journal = {Ear and Hearing},
+volume = {33(5)},
+pages = {573-587},
+year = {2012}
+}
+
+@article{Davies-Venn2007,
+author = {Davies-Venn, E., and Souza, P., and Fabry, D.},
+title = {Speech and music quality ratings for linear and nonlinear hearing aid circuitry},
+journal = {Journal of the American Academy of Audiology},
+volume = {18(8)},
+pages = {688-699},
+year = {2007}
+}
+
+@article{Deroche2011,
+author = {Deroche, M.L., and Culling, J.F},
+title = {Narrow noise band detection in a complex masker: Masking level difference due to harmonicity},
+journal = {Hearing research},
+volume = {282(1)},
+pages = {225-235},
+year = {2011}
+}
+
+@article{Dillon1999,
+author = {Dillon, H.},
+title = {NAL-NL1: A new procedure for fitting non-linear hearing aids},
+journal = {The Hearing Journal},
+volume = {52(4)},
+pages = {10-12},
+year = {1999}
+}
+
+@article{Emiroglu2008,
+author = {Emiroglu, S., and Kollmeier, B.},
+title = {Timbre discrimination in normal-hearing and hearing-impaired listeners under different noise conditions},
+journal = {Brain research},
+volume = {1220},
+pages = {199-207},
+year = {2008}
+}
+
+@article{Ferguson2002,
+author = {Ferguson, S. H., and Kewley-Port, D.},
+title = {Vowel intelligibility in clear and conversational speech for normal-hearing and hearing-impaired listeners},
+journal = {The Journal of the Acoustical Society of America},
+volume = {112},
+pages = {259},
+year = {2002}
+}
+
+@article{Fitzgibbons1982,
+author = {Fitzgibbons, P. J., and Wightman, F. L.},
+title = {Gap detection in normal and hearing-impaired listeners},
+journal = {The Journal of the Acoustical Society of America},
+volume = {72},
+pages = {761},
+year = {1982}
+}
+
+@article{Gfeller1991,
+author = {Gfeller, K., and Lansing, C. R.},
+title = {Melodic, rhythmic, and timbral perception of adult cochlear implant users},
+journal = {Journal of Speech, Language and Hearing Research},
+volume = {34(4)},
+pages = {916},
+year = {1991}
+}
+
+@article{Gfeller2002,
+author = {Gfeller, K., and Witt, S., and Mehr, M. A., and Woodworth, G., and Knutson, J.},
+title = {Effects of frequency, instrumental family, and cochlear implant type on timbre recognition and appraisal},
+journal = {Annals of Otology, Rhinology and Laryngology},
+volume = {111},
+pages = {349-356},
+year = {2002}
+}
+
+@article{Giraudi-Perry1982,
+author = {Giraudi-Perry, D. M., and Salvi, R. J., and Henderson, D.},
+title = {Gap detection in hearing-impaired chinchillas},
+journal = {The Journal of the Acoustical Society of America},
+volume = {72},
+pages = {1387},
+year = {1982}
+}
+
+@article{Glasberg1987,
+author = {Glasberg, B. R., and Moore, B. C., and Bacon, S. P.},
+title = {Gap detection and masking in hearing-impaired and normal-hearing subjects},
+journal = {The Journal of the Acoustical Society of America},
+volume = {81},
+pages = {1546},
+year = {1987}
+}
+
+@article{Glasberg1992,
+author = {Glasberg, B. R., and Moore, B. C.},
+title = {Effects of envelope fluctuations on gap detection},
+journal = {Hearing research},
+volume = {64(1)},
+pages = {81-92},
+year = {1992}
+}
+
+@article{Glista2009,
+author = {Glista, D., and Scollie, S., and Bagatto, M., and Seewald, R., and Parsa, V., and Johnson, A.},
+title = {Evaluation of nonlinear frequency compression: Clinical outcomes},
+journal = {International Journal of Audiology},
+volume = {48(9)},
+pages = {632-644},
+year = {2009}
+}
+
+@article{Goines2007,
+author = {Goines, L., and Hagler, L.},
+title = {Noise pollution: A modern plague},
+journal = {Southern Medical Journal},
+volume = {100(3)},
+pages = {287-294},
+year = {2007}
+}
+
+@inproceedings{Goto2003,
+author = {Goto, M., and Hashiguchi, H., and Nishimura, T., and Oka, R.},
+title = {RWC music database: Music genre database and musical instrument sound database},
+booktitle = {In Proc. ISMIR},
+year = {2008},
+volume = {3},
+pages = {229-230},
+month = {October}
+}
+
+@article{Grey1977,
+author = {Grey, J. M.},
+title = {Multidimensional perceptual scaling of musical timbres},
+journal = {The Journal of the Acoustical Society of America},
+volume = {61},
+pages = {1270},
+year = {1977}
+}
+
+@article{Guinan2012,
+author = {Guinan Jr., J. J.},
+title = {How are inner hair cells stimulated? Evidence for multiple mechanical drives},
+journal = {Hearing Research},
+volume = {292},
+pages = {35-50},
+year = {2012}
+}
+
+@book{Hamill2008,
+author = {Hamill, T., and Price, L. L.},
+title = {The hearing sciences},
+publisher = {Plural Pub},
+year = {2008}
+}
+
+@article{Hartmann1996,
+author = {Hartmann, W. M.},
+title = {Pitch, periodicity, and auditory organization},
+journal = {The Journal of the Acoustical Society of America},
+volume = {100},
+pages = {3491},
+year = {1996}
+}
+
+@article{Hawkins2003,
+author = {Hawkins, D. B., and Cook, J. A.},
+title = {Hearing aid software predictive gain values: How accurate are they?},
+journal = {The Hearing Journal},
+volume = {56(7)},
+pages = {26-28},
+year = {2003}
+}
+
+@article{Hillenbrand1995,
+author = {Hillenbrand, J., and Getty, L. A., and Clark, M. J., and Wheeler, K.},
+title = {Acoustic characteristics of American English vowels},
+journal = {The Journal of the Acoustical Society of America},
+volume = {97},
+pages = {3099},
+year = {1995}
+}
+
+@article{Hopkins2008,
+author = {Hopkins, K., and Moore, B.C., and Stone, M.A.},
+title = {Effects of moderate cochlear hearing loss on the ability to benefit from temporal fine structure information in speech},
+journal = {The Journal of the Acoustical Society of America},
+volume = {123},
+pages = {1140},
+year = {2008}
+}
+
+@article{Humes1999,
+author = {Humes, L. E., and Christensen, L., and Thomas, T., and Bess, F. H., and Hedley-Williams, A., and Bentler, R.},
+title = {A comparison of the aided performance and benefit provided by a linear and a two-channel wide dynamic range compression hearing aid},
+journal = {Journal of Speech, Language and Hearing Research},
+volume = {42(1)},
+pages = {65},
+year = {1999}
+}
+
+@article{Jenstad1999,
+author = {Jenstad, L. M., and Seewald, R. C., and Cornelisse, L. E., and Shantz, J.},
+title = {Comparison of linear gain and wide dynamic range compression hearing aid circuits: Aided speech perception measures},
+journal = {Ear and Hearing},
+volume = {20(2)},
+pages = {117-126},
+year = {1999}
+}
+
+@article{Keidser2006,
+author = {Keidser, G., and Rohrseitz, K., and Dillon, H., and Hamacher, V., and Carter, L., and Rass, U., and Convery, E.},
+title = {The effect of multi-channel wide dynamic range compression, noise reduction, and the directional microphone on horizontal localization performance in hearing aid wearers},
+journal = {International Journal of Audiology},
+volume = {45(10)},
+pages = {563-579},
+year = {2006}
+}
+
+@article{Keidser2011,
+author = {Keidser, G., and Dillon, H. R., and Flax, M., and Ching, T., and Brewer, S.},
+title = {The NAL-NL2 prescription procedure},
+journal = {Audiology Research},
+volume = {1(1)},
+pages = {e24},
+year = {2011}
+}
+
+@article{Kiefte2005,
+author = {Kiefte, M., and Kluender, K. R.},
+title = {The relative importance of spectral tilt in monophthongs and diphthongs},
+journal = {The Journal of the Acoustical Society of America},
+volume = {117},
+pages = {1395},
+year = {2005}
+}
+
+
+@article{Kiefte2010,
+author = {Kiefte, M., and Enright, T., and Marshall, L.},
+title = {The role of formant amplitude in the perception of/i/ and /u/},
+journal = {The Journal of the Acoustical Society of America},
+volume = {127},
+pages = {2611},
+year = {2010}
+}
+
+%don't have original pub
+@article{Knight2001,
+author = {Knight, W.E., and Rickard, N.S.},
+title = {Relaxing music prevents stress-induced increases in subjective anxiety, systolic blood pressure, and heart rate in healthy males and females},
+journal = {Journal of music therapy},
+volume = {38(4)},
+pages = {254-272},
+year = {2001}
+}
+
+@article{Kochkin2009,
+author = {Kochkin, S.},
+title = {MarkeTrak VIII: 25-year trends in the hearing health market},
+journal = {Hearing Review},
+volume = {16(11)},
+pages = {12-31},
+year = {2009}
+}
+
+@article{Kochkin2010b,
+author = {Kochkin, S., and Beck, D.L., and Christensen, L.A., and Compton-Conley, C., and Fligor, B.J., and Kricos, P.B., and ..., and Turner, R.},
+title = {MarkeTrak VIII: The impact of the hearing healthcare professional on hearing aid user success},
+journal = {The Hearing Journal},
+volume = {63(1)},
+pages = {19-20},
+year = {2010}
+}
+
+@article{Kochkin2010a,
+author = {Kochkin, S., and Beck, D.L., and Christensen, L.A., and Compton-Conley, C., and Fligor, B.J., and Kricos, P.B., and ..., and Turner, R.},
+title = {MarkeTrak VIII: Consumer satisfaction with hearing aids is slowly increasing},
+journal = {Hearing Review},
+volume = {17(4)},
+pages = {12-34},
+year = {2010}
+}
+
+@article{Larson2000,
+author = {Larson, V. D., and Williams, D. W., and Henderson, W. G., and Luethke, L. E., and Beck, L. B., and Noffsinger, D., and ..., and Rappaport, B. Z.},
+title = {Efficacy of 3 commonly used hearing aid circuits},
+journal = {JAMA: The Journal of the American Medical Association},
+volume = {284(14)},
+pages = {1806-1813},
+year = {2000}
+}
+
+@article{Levitt1971,
+author = {Levitt, H. C. C. H.},
+title = {Transformed up-down methods in psychoacoustics},
+journal = {The Journal of the Acoustical Society of America},
+volume = {49},
+pages = {467},
+year = {1971}
+}
+
+@article{Lin2011,
+author = {Lin, F. R.},
+title = {Hearing loss and cognition among older adults in the United States},
+journal = {The Journals of Gerontology Series A: Biological Sciences and Medical Sciences},
+volume = {66(10)},
+pages = {1131-1136},
+year = {2011}
+}
+
+@article{Lobarinas2013,
+author = {Lobarinas, E., and Salvi, R., and Ding, D.},
+title = {Insensitivity of the Audiogram to Carboplatin Induced Inner hair cell loss in Chinchillas},
+journal = {Hearing Research},
+year = {2013}
+}
+
+@article{Looi2008,
+author = {Looi, V., and McDermott, H., and McKay, C., and Hickson, L.},
+title = {Music Perception of Cochlear Implant Users Compared with that of Hearing Aid Users},
+journal = {Ear and hearing},
+volume = {29(3)},
+pages = {421-434},
+year = {2008}
+}
+
+@article{Lorenzi2006,
+author = {Lorenzi, C., and Gilbert, G., and Carn, H., and Garnier, S., and Moore, B.C.},
+title = {Speech perception problems of the hearing impaired reflect inability to use temporal fine structure},
+journal = {Proceedings of the National Academy of Sciences},
+volume = {103(49)},
+pages = {18866-18869},
+year = {2006}
+}
+
+@book{Maxwell2004,
+author = {Maxwell, S.E., and Delaney, H.D.},
+title = {Designing experiments and analyzing data: A model comparison perspective},
+publisher = {Routledge},
+year = {2004}
+}
+
+@article{McAdams1995,
+author = {McAdams, S., and Winsberg, S., and Donnadieu, S., and De Soete, G., and Krimphoff, J.},
+title = {Perceptual scaling of synthesized musical timbres: Common dimensions, specificities, and latent subject classes},
+journal = {Psychological research},
+volume = {58(3)},
+pages = {177-192},
+year = {1995}
+}
+
+@article{McCreery2012,
+author = {McCreery, R.W., and Venediktov, R.A., and Coleman, J.J., and Leech, H.M.},
+title = {An Evidence-Based Systematic Review of Directional Microphones and Digital Noise Reduction Hearing Aids in School-Age Children With Hearing Loss},
+journal = {American Journal of Audiology},
+volume = {21(2)},
+pages = {295},
+year = {2012}
+}
+
+@article{McDermott2004,
+author = {McDermott, H.J.},
+title = {Music Perception with Cochlear Implants: A Review},
+journal = {Trends in Amplification},
+volume = {8(2)},
+pages = {49-82},
+year = {2004}
+}
+
+@article{Mehrgardt1977,
+author = {Mehrgardt, S., and Mellert, V.},
+title = {Transformation characteristics of the external human ear},
+journal = {The Journal of the Acoustical Society of America},
+volume = {61},
+pages = {1567},
+year = {1977}
+}
+
+@article{Middlebrooks1991,
+author = {Middlebrooks, J. C., and Green, D. M.},
+title = {Sound localization by human listeners},
+journal = {Annual review of psychology},
+volume = {42(1)},
+pages = {135-159},
+year = {1991}
+}
+
+@article{Miller1997,
+author = {Miller, R.L., and Schilling, J.R., and Franck, K.R., and Young, E.D.},
+title = {Effects of acoustic trauma on the representation of the vowel [bold/e/] in cat auditory nerve fibers},
+journal = {The Journal of the Acoustical Society of America},
+volume = {101},
+pages = {3602},
+year = {1997}
+}
+
+@article{Moore1988,
+author = {Moore, B.C., and Glasberg, B.R.},
+title = {Gap detection with sinusoids and noise in normal, impaired, and electrically stimulated ears},
+journal = {The Journal of the Acoustical Society of America},
+volume = {83},
+pages = {1093},
+year = {1988}
+}
+
+@article{Moore1998,
+author = {Moore, B.C., and Glasberg, B. R.},
+title = {Use of a loudness model for hearing-aid fitting. I. Linear hearing aids},
+journal = {British journal of audiology},
+volume = {32(5)},
+pages = {317-335},
+year = {1998}
+}
+
+@article{Moore2001,
+author = {Moore, B.C.J., and Glasberg, B. R., and Alcántara, J. I., and Launer, S., and Kuehnel, V.},
+title = {Effects of slow-and fast-acting compression on the detection of gaps in narrow bands of noise},
+journal = {British journal of audiology},
+volume = {35(6)},
+pages = {365-374},
+year = {2001}
+}
+
+@article{Moore2005,
+author = {Moore, B.C., and Marriage, J., and Alcántara, J., and Glasberg, B. R.},
+title = {Comparison of two adaptive procedures for fitting a multi-channel compression hearing aid: Comparación de dos procesos de adaptación de auxiliares auditivos con compresión multicanal},
+journal = {International journal of audiology},
+volume = {44(6)},
+pages = {345-357},
+year = {2005}
+}
+
+%own book in physical form
+@book{Moore2007,
+author = {Moore, B.},
+title = {Cochlear hearing loss: physiological, psychological and technical issues},
+publisher = {Wiley-Interscience},
+year = {2007}
+}
+
+@article{Nelson1997,
+author = {Nelson, P. B., and Thomas, S. D.},
+title = {Gap detection as a function of stimulus loudness for listeners with and without hearing loss},
+journal = {Journal of Speech, Language and Hearing Research},
+volume = {40(6)},
+pages = {1387},
+year = {1997}
+}
+
+@article{Nilsson1994,
+author = {Nilsson, M., and Soli, S. D., and Sullivan, J. A.},
+title = {Development of the Hearing in Noise Test for the measurement of speech reception thresholds in quiet and in noise},
+journal = {The Journal of the Acoustical Society of America},
+volume = {95},
+pages = {1085},
+year = {1994}
+}
+
+@article{Noble1990,
+author = {Noble, W., and Byrne, D.},
+title = {A comparison of different binaural hearing aid systems for sound localization in the horizontal and vertical planes},
+journal = {British Journal of Audiology},
+volume = {24(5)},
+pages = {335-346},
+year = {1990}
+}
+
+@article{Norena2011,
+author = {Noreña, A. J.},
+title = {An integrative model of tinnitus based on a central gain controlling neural sensitivity},
+journal = {Neuroscience \& Biobehavioral Reviews},
+volume = {35(5)},
+pages = {1089-1109},
+year = {2011}
+}
+
+@article{Oxenham2003,
+author = {Oxenham, A.J., and Bacon, S.P.},
+title = {Cochlear compression: perceptual measures and implications for normal and impaired hearing},
+journal = {Ear and Hearing},
+volume = {24(5)},
+pages = {352-366},
+year = {2003}
+}
+
+@article{Parsa2006,
+author = {Parsa, V.},
+title = {Acoustic feedback and its reduction through digital signal processing},
+journal = {The Hearing Journal},
+volume = {59(11)},
+pages = {16-18},
+year = {2006}
+}
+
+@article{Peterson1952,
+author = {Peterson, G.E., and Barney, H.L.},
+title = {Control methods used in a study of the vowels},
+journal = {The Journal of the Acoustical Society of America},
+volume = {24},
+pages = {175},
+year = {1952}
+}
+
+%do not own -- Zeyl references this quite often
+@book{Pickles2008,
+author = {Pickles, J.O.},
+title = {An Introduction to the Physiology of Hearing},
+publisher = {Emerald Group Publishing Limited, 3rd edition},
+year = {2008}
+}
+
+@article{Plomp1969,
+author = {Plomp, R., and Steeneken, H. J. M.},
+title = {Effect of phase on the timbre of complex tones},
+journal = {The Journal of the Acoustical Society of America},
+volume = {46},
+pages = {409},
+year = {1969}
+}
+
+@inproceedings{Plomp1983,
+author = {Plomp, R.},
+title = {Perception of speech as a modulated signal},
+booktitle = {Proceedings of the Tenth International Congress of Phonetic Sciences},
+year = {1983},
+pages = {29-40},
+publisher = {Dordrecht, Foris}
+}
+
+@article{Potter1950,
+author = {Potter, R. K., and Steinberg, J. C.},
+title = {Toward the specification of speech},
+journal = {The Journal of the Acoustical Society of America},
+volume = {22},
+pages = {807},
+year = {1950}
+}
+
+@article{Qiu2000,
+author = {Qiu, C., and Salvi, R., and Ding, D., and Burkard, R.},
+title = {Inner hair cell loss leads to enhanced response amplitudes in auditory cortex of unanesthetized chinchillas: evidence for increased system gain},
+journal = {Hearing Research},
+volume = {139(1-2)},
+pages = {153-171},
+year = {2000}
+}
+
+@article{Rahne2011,
+author = {Rahne, T., and Böhme, L., and Götze, G.},
+title = {Timbre discrimination in cochlear implant users and normal hearing subjects using cross-faded synthetic tones},
+journal = {Journal of neuroscience methods},
+volume = {199(2)},
+pages = {290-295},
+year = {2011}
+}
+
+@article{Robles1986,
+author = {Robles, L., and Ruggero, M.A., and Rich, N.C.},
+title = {Basilar membrane mechanics at the base of the chinchilla cochlea. I. Input–output functions, tuning curves, and response phases},
+journal = {The Journal of the Acoustical Society of America},
+volume = {80},
+pages = {1364},
+year = {1986}
+}
+
+@article{Rose1967,
+author = {Rose, J.E., and Brugge, J.F., and Anderson, D.J., and Hind, J.E.},
+title = {Phase-locked response to low-frequency tones in single auditory nerve fibers of the squirrel monkey},
+journal = {Journal of Neurophysiology},
+volume = {30(4)},
+pages = {769-793},
+year = {1967}
+}
+
+@article{Ruggero1992,
+author = {Ruggero, M.A., and Robles, L., and Rich, N.C.},
+title = {Two-tone suppression in the basilar membrane of the cochlea: Mechanical basis of auditory-nerve rate suppression},
+journal = {Journal of Neurophysiology},
+volume = {68(4)},
+pages = {1087-1099},
+year = {1992}
+}
+
+@article{Saarikallio2007,
+author = {Saarikallio, S. and Erkkilä, J.},
+title = {The role of music in adolescents' mood regulation},
+journal = {Psychology of Music},
+volume = {35(1)},
+pages = {88-109},
+year = {2007}
+}
+
+@article{Samson1994,
+author = {Samson, S., and Zatorre, R. J.},
+title = {Contribution of the right temporal lobe to musical timbre discrimination},
+journal = {Neuropsychologia},
+volume = {32(2)},
+pages = {231-240},
+year = {1994}
+}
+
+@article{Samson2002,
+author = {Samson, S., and Zatorre, R. J., and Ramsay, J. O.},
+title = {Deficits of musical timbre perception after unilateral temporal-lobe lesion revealed with multidimensional scaling},
+journal = {Brain},
+volume = {125(3)},
+pages = {511-523},
+year = {2002}
+}
+
+@article{Sarampalis2009,
+author = {Sarampalis, A., and Kalluri, S., and Edwards, B., and Hafter, E.},
+title = {Objective measures of listening effort: Effects of background noise and noise reduction},
+journal = {Journal of Speech, Language and Hearing Research},
+volume = {52(5)},
+pages = {1230},
+year = {2009}
+}
+
+@article{Schellenberg2004,
+author = {Schellenberg, E.G.},
+title = {Music and cognitive abilities},
+journal = {Current Directions in Psychological Science},
+volume = {14(6)},
+pages = {317-320},
+year = {2004}
+}
+
+@article{Schneider1999,
+author = {Schneider, B. A., and Hamstra, S. J.},
+title = {Gap detection thresholds as a function of tonal duration for younger and older listeners},
+journal = {The Journal of the Acoustical Society of America},
+volume = {106},
+pages = {371},
+year = {1999}
+}
+
+@article{Schwartz2001,
+author = {Schwartz, O., and Simoncelli, E. P.},
+title = {Natural signal statistics and sensory gain control},
+journal = {Nature neuroscience},
+volume = {4(8)},
+pages = {819-825},
+year = {2001}
+}
+
+@article{Scollie2005,
+author = {Scollie, S., and Seewald, R., and Cornelisse, L., and Moodie, S., and Bagatto, M., and Laurnagaray, D., and Beaulac, S., and Pumford, J.},
+title = {The desired sensation level multistage input/output algorithm},
+journal = {Trends in Amplification},
+volume = {9(4)},
+pages = {159-197},
+year = {2005}
+}
+
+@article{Shailer1983,
+author = {Shailer, M. J., and Moore, B. C.},
+title = {Gap detection as a function of frequency, bandwidth, and level},
+journal = {The Journal of the Acoustical Society of America},
+volume = {74},
+pages = {467},
+year = {1983}
+}
+
+@article{Shi2006,
+author = {Shi, L.F., and Carney, L.H., and Doherty, K.A.},
+title = {Correction of the peripheral spatiotemporal response pattern: A potential new signal-processing strategy},
+journal = {Journal of Speech, Language and Hearing Research},
+volume = {49(4)},
+pages = {848},
+year = {2006}
+}
+
+@article{Simpson2005,
+author = {Simpson, A., and Hersbach, A.A., and McDermott, H.J.},
+title = {Improvements in speech perception with an experimental nonlinear frequency compression hearing device},
+journal = {International Journal of Audiology},
+volume = {44(5)},
+pages = {281-292},
+year = {2005}
+}
+
+@article{Smith2006,
+author = {Smith, N. A., and Trainor, L. J., and Shore, D. I.},
+title = {The development of temporal resolution: between-channel gap detection in infants and adults},
+journal = {Journal of Speech, Language and Hearing Research},
+volume = {49(5)},
+pages = {1104},
+year = {2006}
+}
+
+@article{Tambs2004,
+author = {Tambs, K.},
+title = {Moderate effects of hearing loss on mental health and subjective well-being: results from the Nord-Trøndelag Hearing Loss Study},
+journal = {Psychosomatic medicine},
+volume = {66(5)},
+pages = {776-782},
+year = {2004}
+}
+
+@article{Trautwein1996,
+author = {Trautwein, P., and Hofstetter, P., and Wang, J., and Salvi, R., and Nostrant, A.},
+title = {Selective inner hair cell loss does not alter distortion product otoacoustic emissions},
+journal = {Hearing Research},
+volume = {66(5)},
+pages = {71-82},
+year = {1996}
+}
+
+@article{Trehub1990,
+author = {Trehub, S. E., and Endman, M. W., and Thorpe, L. A.},
+title = {Infants' perception of timbre: Classification of complex tones by spectral structure},
+journal = {Journal of Experimental Child Psychology},
+volume = {49(2)},
+pages = {300-313},
+year = {1990}
+}
+
+@article{Unnikrishnan1994,
+author = {Unnikrishnan, K. P., and Venugopal, K. P.},
+title = {Alopex: A correlation-based learning algorithm for feedforward and recurrent neural networks},
+journal = {Neural Computation},
+volume = {6(3)},
+pages = {469-490},
+year = {1994}
+}
+
+@article{VandenBogaert2006,
+author = {Van den Bogaert, T., and Klasen, T. J., and Moonen, M., and Van Deun, L., and Wouters, J.},
+title = {Horizontal localization with bilateral hearing aids: without is better than with},
+journal = {The Journal of the Acoustical Society of America},
+volume = {119},
+pages = {515},
+year = {2006}
+}
+
+@article{Vickers2001,
+author = {Vickers, D.A., and Moore, B.C., and Baer, T.},
+title = {Effects of low-pass filtering on the intelligibility of speech in quiet for people with and without dead regions at high frequencies},
+journal = {The Journal of the Acoustical Society of America},
+volume = {110},
+pages = {1164},
+year = {2001}
+}
+
+@article{Walden2001,
+author = {Walden, B. E., and Grant, K. W., and Cord, M. T.},
+title = {Effects of amplification and speechreading on consonant recognition by persons with impaired hearing},
+journal = {Ear and hearing},
+volume = {22(4)},
+pages = {333-341},
+year = {2001}
+}
+
+@article{Wang1997,
+author = {Wang, J., and Powers, N.L., and Hofstetter, P., and Trautwein, P., and Ding, D., and Salvi, R.},
+title = {Effects of selective inner hair cell loss on auditory nerve fiber threshold, tuning and spontaneous and driven discharge rate},
+journal = {Hearing Research},
+volume = {107(1-2)},
+pages = {67},
+year = {1997}
+}
+
+%don't have original pub
+@article{Weinstein1982,
+author = {Weinstein, B.E., and Ventry, I.M.},
+title = {Hearing impairment and social isolation in the elderly},
+journal = {Journal of Speech, Language and Hearing Research},
+volume = {25(4)},
+pages = {593},
+year = {1982}
+}
+
+@article{Wiener1946,
+author = {Wiener, F.M. and Ross, D.A.},
+title = {The pressure distribution in the auditory canal in a progressive sound field},
+journal = {The Journal of the Acoustical Society of America},
+pages = {401},
+url = {http://link.aip.org/link/?JASMAN/18/401/1},
+volume = {18},
+year = {1946}
+}

@@ -1,0 +1,230 @@
+\contentsline {chapter}{Abstract}{iv}
+\contentsline {paragraph}{}{iv}
+\contentsline {chapter}{Acknowledgements}{v}
+\contentsline {paragraph}{}{v}
+\contentsline {chapter}{Notation and abbreviations}{vii}
+\contentsline {chapter}{\numberline {1}Sound and Hearing}{1}
+\contentsline {section}{\numberline {1.1}The Nature of Sound}{1}
+\contentsline {paragraph}{}{1}
+\contentsline {section}{\numberline {1.2}The Peripheral Auditory System}{2}
+\contentsline {paragraph}{}{2}
+\contentsline {subsection}{\numberline {1.2.1}Outer and Middle Ear}{3}
+\contentsline {paragraph}{}{3}
+\contentsline {subsection}{\numberline {1.2.2}The Cochlea}{6}
+\contentsline {paragraph}{}{6}
+\contentsline {subsubsection}{Organ of Corti}{10}
+\contentsline {paragraph}{}{10}
+\contentsline {subsubsection}{Nonlinear Cochlear Mechanics}{11}
+\contentsline {paragraph}{}{11}
+\contentsline {section}{\numberline {1.3}Hearing Loss}{15}
+\contentsline {paragraph}{}{15}
+\contentsline {chapter}{\numberline {2}Hearing Aids}{22}
+\contentsline {section}{\numberline {2.1}Introduction}{22}
+\contentsline {paragraph}{}{22}
+\contentsline {subsection}{\numberline {2.1.1}Physical Components}{24}
+\contentsline {paragraph}{}{24}
+\contentsline {subsection}{\numberline {2.1.2}Features}{25}
+\contentsline {paragraph}{}{25}
+\contentsline {section}{\numberline {2.2}Hearing Aid Prescriptions}{28}
+\contentsline {subsection}{\numberline {2.2.1}Overview}{28}
+\contentsline {paragraph}{}{28}
+\contentsline {subsection}{\numberline {2.2.2}Problems With Prescription Formulas}{31}
+\contentsline {paragraph}{}{31}
+\contentsline {section}{\numberline {2.3}Neuro-Compensator}{34}
+\contentsline {paragraph}{}{34}
+\contentsline {chapter}{\numberline {3}Methods for Comparing Hearing Aids}{37}
+\contentsline {paragraph}{}{37}
+\contentsline {section}{\numberline {3.1}Speech Intelligibility}{37}
+\contentsline {paragraph}{}{37}
+\contentsline {subsection}{\numberline {3.1.1}Consonant Vowel Consonant (CVC)}{38}
+\contentsline {paragraph}{}{38}
+\contentsline {subsection}{\numberline {3.1.2}Vowel Consonant Vowel (VCV)}{39}
+\contentsline {paragraph}{}{39}
+\contentsline {subsection}{\numberline {3.1.3}Hearing In Noise Test (HINT)}{40}
+\contentsline {paragraph}{}{40}
+\contentsline {section}{\numberline {3.2}Music Perception}{41}
+\contentsline {paragraph}{}{41}
+\contentsline {subsection}{\numberline {3.2.1}Mistuned Harmonic}{42}
+\contentsline {paragraph}{}{42}
+\contentsline {subsection}{\numberline {3.2.2}Timbre Perception}{43}
+\contentsline {paragraph}{}{43}
+\contentsline {subsection}{\numberline {3.2.3}Gap Detection}{44}
+\contentsline {paragraph}{}{44}
+\contentsline {section}{\numberline {3.3}Sound Localization}{45}
+\contentsline {subsection}{\numberline {3.3.1}Horizontal Localization}{45}
+\contentsline {paragraph}{}{45}
+\contentsline {section}{\numberline {3.4}Subjective Measures}{46}
+\contentsline {paragraph}{}{46}
+\contentsline {subsection}{\numberline {3.4.1}Abbreviated Profile of Hearing Aid Benefit (APHAB)}{46}
+\contentsline {paragraph}{}{46}
+\contentsline {subsection}{\numberline {3.4.2}Speech and Music Quality}{47}
+\contentsline {paragraph}{}{47}
+\contentsline {chapter}{\numberline {4}NC Experiment 1}{48}
+\contentsline {section}{\numberline {4.1}Design}{48}
+\contentsline {paragraph}{}{48}
+\contentsline {section}{\numberline {4.2}Participants}{50}
+\contentsline {subsection}{\numberline {4.2.1}Demographics and Prior Experience}{50}
+\contentsline {paragraph}{}{50}
+\contentsline {subsection}{\numberline {4.2.2}Audiograms}{50}
+\contentsline {paragraph}{}{50}
+\contentsline {subsection}{\numberline {4.2.3}Subjects Analyzed}{51}
+\contentsline {paragraph}{}{51}
+\contentsline {section}{\numberline {4.3}Testing Room and General Procedures}{53}
+\contentsline {paragraph}{}{53}
+\contentsline {section}{\numberline {4.4}Speech Intelligibility}{55}
+\contentsline {subsection}{\numberline {4.4.1}Hearing In Noise Test (HINT)}{55}
+\contentsline {subsubsection}{Procedure}{55}
+\contentsline {paragraph}{}{55}
+\contentsline {subsubsection}{Results}{56}
+\contentsline {paragraph}{}{56}
+\contentsline {subsection}{\numberline {4.4.2}Consonant Vowel Consonant (CVC)}{56}
+\contentsline {subsubsection}{Stimuli}{56}
+\contentsline {paragraph}{}{56}
+\contentsline {subsubsection}{Procedure}{59}
+\contentsline {paragraph}{}{59}
+\contentsline {subsubsection}{Results}{60}
+\contentsline {paragraph}{}{60}
+\contentsline {subsection}{\numberline {4.4.3}Vowel Consonant Vowel (VCV)}{63}
+\contentsline {subsubsection}{Stimuli}{63}
+\contentsline {paragraph}{}{63}
+\contentsline {subsubsection}{Procedure}{63}
+\contentsline {paragraph}{}{63}
+\contentsline {subsubsection}{Results}{66}
+\contentsline {paragraph}{}{66}
+\contentsline {section}{\numberline {4.5}Music Perception}{72}
+\contentsline {subsection}{\numberline {4.5.1}Mistuned Harmonic}{72}
+\contentsline {subsubsection}{Stimuli}{72}
+\contentsline {paragraph}{}{72}
+\contentsline {subsubsection}{Procedure}{72}
+\contentsline {paragraph}{}{72}
+\contentsline {subsubsection}{Results}{73}
+\contentsline {paragraph}{}{73}
+\contentsline {subsection}{\numberline {4.5.2}Timbre Perception}{75}
+\contentsline {subsubsection}{Stimuli}{75}
+\contentsline {paragraph}{}{75}
+\contentsline {subsubsection}{Procedure}{76}
+\contentsline {paragraph}{}{76}
+\contentsline {subsubsection}{Results}{77}
+\contentsline {paragraph}{}{77}
+\contentsline {subsection}{\numberline {4.5.3}Gap Detection}{80}
+\contentsline {subsubsection}{Stimuli}{80}
+\contentsline {paragraph}{}{80}
+\contentsline {subsubsection}{Procedure}{80}
+\contentsline {paragraph}{}{80}
+\contentsline {subsubsection}{Results}{81}
+\contentsline {paragraph}{}{81}
+\contentsline {section}{\numberline {4.6}Sound Localization}{84}
+\contentsline {subsection}{\numberline {4.6.1}Horizontal Localization}{84}
+\contentsline {subsubsection}{Stimuli}{84}
+\contentsline {paragraph}{}{84}
+\contentsline {subsubsection}{Procedure}{84}
+\contentsline {paragraph}{}{84}
+\contentsline {subsubsection}{Results}{86}
+\contentsline {paragraph}{}{86}
+\contentsline {section}{\numberline {4.7}Subjective Measures}{91}
+\contentsline {subsection}{\numberline {4.7.1}Abbreviated Profile of Hearing Aid Benefit (APHAB)}{91}
+\contentsline {subsubsection}{Procedure}{91}
+\contentsline {paragraph}{}{91}
+\contentsline {subsubsection}{Results}{91}
+\contentsline {paragraph}{}{91}
+\contentsline {subsection}{\numberline {4.7.2}Sound Quality}{91}
+\contentsline {subsubsection}{Procedure}{91}
+\contentsline {paragraph}{}{91}
+\contentsline {subsubsection}{Results}{92}
+\contentsline {paragraph}{}{92}
+\contentsline {subsection}{\numberline {4.7.3}Feedback Form}{93}
+\contentsline {subsubsection}{Results}{93}
+\contentsline {paragraph}{}{93}
+\contentsline {section}{\numberline {4.8}Discussion}{93}
+\contentsline {paragraph}{}{93}
+\contentsline {subsection}{\numberline {4.8.1}Limitations}{94}
+\contentsline {paragraph}{}{94}
+\contentsline {subsection}{\numberline {4.8.2}Conclusions from NCStudy1}{96}
+\contentsline {paragraph}{}{96}
+\contentsline {subsubsection}{Speech Intelligibility}{96}
+\contentsline {paragraph}{}{96}
+\contentsline {subsubsection}{Music Perception}{97}
+\contentsline {paragraph}{}{97}
+\contentsline {subsubsection}{Sound Localization}{98}
+\contentsline {paragraph}{}{98}
+\contentsline {subsubsection}{Subjective Measures}{98}
+\contentsline {paragraph}{}{98}
+\contentsline {chapter}{\numberline {5}NC Experiment 2}{100}
+\contentsline {section}{\numberline {5.1}Design}{100}
+\contentsline {paragraph}{}{100}
+\contentsline {section}{\numberline {5.2}Participants}{102}
+\contentsline {subsection}{\numberline {5.2.1}Demographics and Prior Experience}{102}
+\contentsline {paragraph}{}{102}
+\contentsline {subsection}{\numberline {5.2.2}Audiograms}{102}
+\contentsline {paragraph}{}{102}
+\contentsline {subsection}{\numberline {5.2.3}Real Ear Measurements (REMs)}{103}
+\contentsline {paragraph}{}{103}
+\contentsline {section}{\numberline {5.3}Procedures Modified from NCStudy1}{109}
+\contentsline {paragraph}{}{109}
+\contentsline {subsection}{\numberline {5.3.1}Hearing In Noise Test (HINT)}{109}
+\contentsline {paragraph}{}{109}
+\contentsline {subsection}{\numberline {5.3.2}Word Recognition}{110}
+\contentsline {paragraph}{}{110}
+\contentsline {subsection}{\numberline {5.3.3}hVd}{110}
+\contentsline {paragraph}{}{110}
+\contentsline {subsection}{\numberline {5.3.4}APHAB}{111}
+\contentsline {paragraph}{}{111}
+\contentsline {section}{\numberline {5.4}Results}{111}
+\contentsline {paragraph}{}{111}
+\contentsline {subsection}{\numberline {5.4.1}Speech Intelligibility Results}{112}
+\contentsline {subsubsection}{Hearing In Noise Test (HINT)}{112}
+\contentsline {paragraph}{}{112}
+\contentsline {subsubsection}{Word Recognition}{112}
+\contentsline {paragraph}{}{112}
+\contentsline {subsubsection}{Consonant Vowel Consonant (CVC)}{116}
+\contentsline {paragraph}{}{116}
+\contentsline {subsubsection}{Vowel Consonant Vowel (VCV)}{121}
+\contentsline {paragraph}{}{121}
+\contentsline {subsection}{\numberline {5.4.2}Music Perception Results}{126}
+\contentsline {subsubsection}{Mistuned Harmonic}{126}
+\contentsline {paragraph}{}{126}
+\contentsline {subsubsection}{Timbre Perception}{126}
+\contentsline {paragraph}{}{126}
+\contentsline {subsubsection}{Gap Detection}{130}
+\contentsline {paragraph}{}{130}
+\contentsline {subsection}{\numberline {5.4.3}Sound Localization Results}{132}
+\contentsline {paragraph}{}{132}
+\contentsline {subsection}{\numberline {5.4.4}Subjective Measure Results}{137}
+\contentsline {subsubsection}{APHAB}{137}
+\contentsline {paragraph}{}{137}
+\contentsline {subsubsection}{Sound Quality}{139}
+\contentsline {paragraph}{}{139}
+\contentsline {subsubsection}{Structured Diary}{140}
+\contentsline {paragraph}{}{140}
+\contentsline {subsubsection}{Feedback Form}{143}
+\contentsline {paragraph}{}{143}
+\contentsline {section}{\numberline {5.5}Discussion}{144}
+\contentsline {paragraph}{}{144}
+\contentsline {subsection}{\numberline {5.5.1}Limitations}{144}
+\contentsline {paragraph}{}{144}
+\contentsline {subsubsection}{Features}{145}
+\contentsline {paragraph}{}{145}
+\contentsline {subsubsection}{Gain}{146}
+\contentsline {paragraph}{}{146}
+\contentsline {subsubsection}{Adjustments}{147}
+\contentsline {paragraph}{}{147}
+\contentsline {subsection}{\numberline {5.5.2}Conclusions from NCStudy2}{147}
+\contentsline {subsubsection}{Speech Intelligibility}{147}
+\contentsline {paragraph}{}{147}
+\contentsline {subsubsection}{Music Perception}{149}
+\contentsline {paragraph}{}{149}
+\contentsline {subsubsection}{Sound Localization}{150}
+\contentsline {paragraph}{}{150}
+\contentsline {subsubsection}{Subjective Measures}{151}
+\contentsline {paragraph}{}{151}
+\contentsline {subsubsection}{Overall}{152}
+\contentsline {paragraph}{}{152}
+\contentsline {chapter}{\numberline {6}Conclusions}{153}
+\contentsline {section}{\numberline {6.1}Summary of Experiments}{153}
+\contentsline {paragraph}{}{153}
+\contentsline {section}{\numberline {6.2}Contributions to Research}{155}
+\contentsline {paragraph}{}{155}
+\contentsline {section}{\numberline {6.3}Future Research}{156}
+\contentsline {paragraph}{}{156}
+\contentsline {chapter}{Appendix \numberline {A}Sound Quality Questionnaire}{157}
+\contentsline {chapter}{References}{159}

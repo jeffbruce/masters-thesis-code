@@ -1,0 +1,17 @@
+Extra references
+
+@article{Weinstein1982,
+
+author = {Weinstein, Barbara E, Ventry, Ira M},
+
+title = {Hearing Impairment and Social Isolation in the Elderly},
+
+journal = {J Speech Hear Res},
+
+volume = {25},
+
+pages = {593-599},
+
+year = {1982}
+
+}
